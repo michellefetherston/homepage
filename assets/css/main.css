@@ -1790,9 +1790,9 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-	.bordered-image {
-           	 border: 1px #005493;
-        }
+		.image.bordered {
+           	 	border: 4px solid #005493;
+        		}
 
 /* List */
 
